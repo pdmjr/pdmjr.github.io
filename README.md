@@ -1,2 +1,2 @@
 
-# Página pessoal de Paulo Ditarso
+# Página do Prof. Dr. Paulo Ditarso Maciel Jr.

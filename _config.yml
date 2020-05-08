@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Paulo Ditarso 
+title: Paulo Ditarso Maciel Jr. 
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Página pessoal de Paulo Ditarso
+  Prof. Dr. Paulo Ditarso Maciel Jr.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://pauloditarso.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://pdmjr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pauloditarso
-github_username:  pauloditarso
+github_username:  pdmjr
 
-repository: "pauloditarso/pauloditarso.github.io"
+repository: "pdmjr/pdmjr.github.io"
 
 # Build settings
 plugins:
@@ -32,7 +32,10 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
   - index.md
-  - passatempo.md
+  - agenda.md
+  - ensino.md
+  - pesquisa.md
+  - extensao.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
