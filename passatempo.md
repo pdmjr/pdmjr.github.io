@@ -2,7 +2,7 @@
 layout: page
 title: Passatempo
 ---
-[Início](/index.md)
+| [Início](/index.md) | [Passatempo](/passatempo) |
 
 - - -
 
