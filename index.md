@@ -20,8 +20,8 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
 ## Publicações (últimos 3 anos)
 
 * *Cloud Network Slicing: A Systematic Mapping Study from Scientific Publications (2020)* <br/>
-  arXiv:2004.13675 [cs.NI]<br/>
   Leandro C. de Almeida, Paulo Ditarso Maciel Jr., Fábio L. Verdi <br/>
+  arXiv:2004.13675 [cs.NI]<br/>
   [Site](https://arxiv.org/abs/2004.13675)
 
 * *Design and Implementation of an Elastic Monitoring Architecture for Cloud Network Slices (2020)* <br/>
