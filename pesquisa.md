@@ -34,7 +34,7 @@ title: Pesquisa
 * (em construção)
 
 <br/>
-**Material também para orientadores**
+**Material para orientandos e orientadores**
 
 * *[Four lessons for being a great mentor to undergrads (ScienceMag.org, 2017)](https://bit.ly/2xLw3yN)*
 
