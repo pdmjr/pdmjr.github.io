@@ -4,4 +4,4 @@ title: Extensão
 ---
 
 <br/>
-(em construção)
+**[Projeto Olímpico de Programação](https://joaopessoa.ifpb.edu.br/pop)**
