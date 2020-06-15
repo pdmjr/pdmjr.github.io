@@ -28,12 +28,12 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
 * *Design and Implementation of an Elastic Monitoring Architecture for Cloud Network Slices (2020)* <br/>
   André Beltrami, Paulo D. Maciel Jr., Francesco Tusa, Celso Cesila, Christian Rothernberg, Rafael Pasquini, Fábio L. Verdi<br/>
   IEEE/IFIP Network Operations and Management Symposium<br/>
-  [Site](https://intrig.dca.fee.unicamp.br/wp-content/plugins/papercite/pdf/beltrami2020.pdf)
+  [Site](http://dx.doi.org/10.1109/NOMS47738.2020.9110415)
 
 * *Elastic Monitoring Architecture for Cloud Network Slices (2020)*<br/>
   André Beltrami, Celso Cesila, Paulo Ditarso Maciel Jr., Christian Rothernberg, Fábio L. Verdi<br/>
   (Demo paper) IEEE/IFIP Network Operations and Management Symposium<br/>
-  [Site](https://intrig.dca.fee.unicamp.br/wp-content/plugins/papercite/pdf/beltrami2020demo.pdf)
+  [Site](http://dx.doi.org/10.1109/NOMS47738.2020.9110447)
 
 * *A Marketplace-based Approach to Cloud Network Slice Composition Across Multiple Domains (2019)*<br/>
   Paulo Ditarso Maciel Jr., Fábio L. Verdi, Polychronis Valsamas, Ilias Sakellariou, Lefteris Mamatas, Sophia Petridou, Panagiotis Papadimitriou, David Moura, Asma Islam, Billy Pinheiro, Stuart Clayman<br/>
