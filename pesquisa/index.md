@@ -4,6 +4,12 @@ title: Pesquisa
 ---
 
 <br/>
+**Oportunidades**
+
+* Proposta de projetos de pesquisa ou desenvolvimento tecnológico <br/>
+  Prazo para manifestação de interesse: 30/06/2020 <br/>
+  [Site](/oportunidades)
+
 **Trabalhos sobre Revisão(Mapeamento) Sistemática(o) da Literatura**
 
 * *Cloud Network Slicing: A Systematic Mapping Study from Scientific Publications (2020)* <br/>
