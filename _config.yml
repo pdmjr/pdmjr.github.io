@@ -34,7 +34,7 @@ header_pages:
   - index.md
   - agenda/agenda.md
   - ensino/ensino.md
-  - pesquisa/index.md
+  - pesquisa
   - extensao/extensao.md
 
 # Exclude from processing.
