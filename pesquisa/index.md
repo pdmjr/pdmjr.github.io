@@ -8,7 +8,7 @@ title: Pesquisa
 
 * Proposta de projetos de pesquisa ou desenvolvimento tecnológico <br/>
   Prazo para manifestação de interesse: 30/06/2020 <br/>
-  [Site](pesquisa/oportunidades)
+  [Site](https://pdmjr.github.io/pesquisa/oportunidades)
 
 **Trabalhos sobre Revisão(Mapeamento) Sistemática(o) da Literatura**
 
