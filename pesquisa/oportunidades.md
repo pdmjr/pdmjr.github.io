@@ -4,7 +4,7 @@ title: Oportunidades
 ---
 
 <br/>
-### Oportunidades de participação em projetos de pesquisa ou desenvolvimento, a serem submetidos aos Editais [PIBIC/CNPq 16/2020](http://www.ifpb.edu.br/prpipg/editais/ano-2020/edital-no-16-2020-pesquisa) e [PIBIT/CNPq 17/2020](http://www.ifpb.edu.br/prpipg/editais/ano-2020/edital-no-17-2020-pesquisa).
+**Oportunidades de participação em projetos de pesquisa ou desenvolvimento, a serem submetidos aos Editais [PIBIC/CNPq 16/2020](http://www.ifpb.edu.br/prpipg/editais/ano-2020/edital-no-16-2020-pesquisa) e [PIBIT/CNPq 17/2020](http://www.ifpb.edu.br/prpipg/editais/ano-2020/edital-no-17-2020-pesquisa).**
 
 Para esta seleção, é necessário que o aluno verifique se está apto a participar dos editais acima descritos.
 
