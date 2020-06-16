@@ -6,7 +6,7 @@ title: Oportunidades
 <br/>
 **Oportunidades de participação em projetos de pesquisa ou desenvolvimento, a serem submetidos aos Editais [PIBIC/CNPq 16/2020](http://www.ifpb.edu.br/prpipg/editais/ano-2020/edital-no-16-2020-pesquisa) e [PIBIT/CNPq 17/2020](http://www.ifpb.edu.br/prpipg/editais/ano-2020/edital-no-17-2020-pesquisa).**
 
-Para esta seleção, é necessário que o aluno verifique se está apto a participar dos editais acima descritos.
+Para esta seleção, é necessário que o aluno verifique se está apto a participar dos editais acima.
 
 A seleção será realizada por meio de análise de currículo, histórico escolar e/ou entrevista.
 
@@ -32,7 +32,7 @@ Conhecimentos desejáveis: ambientes de virtualização (Xen, KVM, docker) e she
 
 Seleção de um aluno do Curso Superior de Tecnologia em Redes de Computadores para submissão de proposta de projeto ao **Edital PIBIT/CNPq 17/2020**.
 
-Projeto que busca o desenvolvimento de uma plataforma de gerência dos laboratórios de informática do IFPB, através da virtualização das aulas ministradas e da orquestração centralizada do ambiente virtual. O objetivo é integrar ferramentas open source existentes com o intuito de facilitar a manutenção de tais laboratórios, bem como agilizar o processo de criação e replicação das aulas. Os objetivos específicos deste projeto consistem em:
+Projeto que busca o desenvolvimento de uma plataforma de gerência dos laboratórios de informática do IFPB, através da virtualização das aulas ministradas e da orquestração centralizada do ambiente virtual. O objetivo é integrar ferramentas *open source* existentes com o intuito de facilitar a manutenção de tais laboratórios, bem como agilizar o processo de criação e replicação das aulas. Os objetivos específicos deste projeto consistem em:
 
 1. Caracterização dos laboratórios e das aulas ministradas;
 2. Estudo das ferramentas a serem utilizadas na plataforma integrada;
@@ -40,6 +40,6 @@ Projeto que busca o desenvolvimento de uma plataforma de gerência dos laborató
 4. Planejamento e execução de exeprimentos para validar a ferramenta;
 5. Análise dos resultados e escrita de relatórios técnicos.
 
-Conhecimentos desejáveis: ambientes de orquestração (OpenStack, Kubernetes, OpenShift), shell scripting, python.
+Conhecimentos desejáveis: ambientes de orquestração de serviços (OpenStack, Kubernetes, OpenShift), shell scripting, python.
 
 OBS: esta página poderá ser atualizada nos próximos dias com novas oportunidades.
