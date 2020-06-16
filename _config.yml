@@ -32,10 +32,10 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
   - index.md
-  - agenda.md
-  - ensino.md
-  - pesquisa.md
-  - extensao.md
+  - agenda/agenda.md
+  - ensino/ensino.md
+  - pesquisa/pesquisa.md
+  - extensao/extensao.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
