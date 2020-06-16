@@ -1,14 +1,20 @@
-Oportunidades de participação em projetos de pesquisa ou desenvolvimento, a serem submetidos aos Editais PIBIC/CNPq 16/2020 e PIBIT/CNPq 17/2020.
+---
+layout: page
+title: Oportunidades
+---
+
+<br/>
+Oportunidades de participação em projetos de pesquisa ou desenvolvimento, a serem submetidos aos Editais **[PIBIC/CNPq 16/2020](http://www.ifpb.edu.br/prpipg/editais/ano-2020/edital-no-16-2020-pesquisa)** e **[PIBIT/CNPq 17/2020](http://www.ifpb.edu.br/prpipg/editais/ano-2020/edital-no-17-2020-pesquisa)**.
 
 Para esta seleção, é necessário que o aluno verifique se está apto a participar dos editais acima descritos.
 
 A seleção será realizada por meio de análise de currículo, histórico escolar e/ou entrevista.
 
-Prazo máximo para manifestação de interesse em uma das vagas descritas abaixo: 30 de junho de 2020.
+Prazo máximo para manifestação de interesse em uma das vagas descritas abaixo: **30 de junho de 2020**.
 
-Entrar em contato por email: paulo.maciel[at]ifpb.edu.br.
+Entrar em contato por email: **paulo.maciel[at]ifpb.edu.br**.
 
-Oportunidade 01: ets-virtual
+**Oportunidade 01: ETS Virtual**
 
 Seleção de um aluno do Curso Superior de Tecnologia em Redes de Computadores para submissão de proposta de pesquisa ao Edital PIBIC/CNPq 16/2020.
 
@@ -22,7 +28,7 @@ Pesquisa realizada em conjunto com a Escola Técnica de Saúde (ETS) da UFPB, cu
 
 Conhecimentos desejáveis: ambientes de virtualização (Xen, KVM, docker) e shell scripting.
 
-Oportunidade 02: saladeaula-virtual
+**Oportunidade 02: Sala de Aula Virtualizada**
 
 Seleção de um aluno do Curso Superior de Tecnologia em Redes de Computadores para submissão de proposta de projeto ao Edital PIBIT/CNPq 17/2020.
 
@@ -37,4 +43,3 @@ Projeto que busca o desenvolvimento de uma plataforma de gerência dos laborató
 Conhecimentos desejáveis: ambientes de orquestração (OpenStack, Kubernetes, OpenShift), shell scripting, python.
 
 OBS: este arquivo poderá ser atualizado nos próximos dias com novas oportunidades.
-
