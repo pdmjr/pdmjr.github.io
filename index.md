@@ -41,7 +41,7 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
   [Site](http://dx.doi.org/10.1109/NETSOFT.2019.8806668)
 
 * *Projeto NECOS: Rumo ao Fatiamento Leve de Recursos em Infraestruturas de Nuvens Federadas (2019)*<br/>
-  Fernando Farias, Billy Pinheiro, Ant'ônio Abelém, Paulo Ditarso Maciel Jr., André Rocha, Fábio Verdi, Augusto Neto, Sando Correa, Marcelo Nascimento, Rafael Pasquini, Christian Rothenberg<br/>
+  Fernando Farias, Billy Pinheiro, Antônio Abelém, Paulo Ditarso Maciel Jr., André Rocha, Fábio Verdi, Augusto Neto, Sando Correa, Marcelo Nascimento, Rafael Pasquini, Christian Rothenberg<br/>
   Workshop de Pesquisa Experimental da Internet do Futuro<br/>
   [Site](https://sol.sbc.org.br/index.php/wpeif/article/view/7699)
 
