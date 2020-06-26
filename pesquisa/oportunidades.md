@@ -26,7 +26,7 @@ Pesquisa realizada em conjunto com a Escola Técnica de Saúde (ETS) da UFPB, cu
 4. Execução dos exeprimentos e coleta dos resulados;
 5. Análise dos resultados e escrita de relatórios técnicos.
 
-Conhecimentos desejáveis: ambientes de virtualização (Xen, KVM, docker) e shell scripting.
+Objetos de estudo: ambientes de virtualização (Xen, KVM, docker) e shell scripting.
 
 **Oportunidade 02: Sala de Aula Virtualizada**
 
@@ -40,6 +40,6 @@ Projeto que busca o desenvolvimento de uma plataforma de gerência dos laborató
 4. Planejamento e execução de exeprimentos para validar a ferramenta;
 5. Análise dos resultados e escrita de relatórios técnicos.
 
-Conhecimentos desejáveis: ambientes de orquestração de serviços (OpenStack, Kubernetes, OpenShift), shell scripting, python.
+Objetos de estudo: ambientes de orquestração de serviços (OpenStack, Kubernetes, OpenShift), shell scripting, python.
 
 OBS: esta página poderá ser atualizada nos próximos dias com novas oportunidades.
