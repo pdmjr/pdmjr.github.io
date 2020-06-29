@@ -14,7 +14,21 @@ Prazo máximo para manifestar interesse em uma das vagas descritas abaixo: **05/
 
 Entrar em contato por email: **paulo.maciel[at]ifpb.edu.br**.
 
-**Oportunidade 01: ETS Virtual**
+**Oportunidade 01: POLIIoT**
+
+Seleção de dois (02) alunos do CST em Redes de Computadores ou Bacharelado em Engenharia Elétrica, para submissão de proposta de projeto aos Editais PIBIC/CNPq 16/2020 e PIBIT/CNPq 17/2020.
+
+O objetivo geral deste projeto é propor uma solução para gerência inteligente de uma rede de dispositivos IoT baseada em políticas. Esta gerência permitirá uma seleção eficiente para atender aplicações variadas no contexto de IIoT (*Industrial Internet of Things*), levando em consideração as diferentes características físicas dos dispositivos que compõem a rede. Desta forma, pretende-se desenvolver soluções que permitam que vários serviços utilizem uma mesma infraestrutura de sensoriamento via dispositivos IoT, diminuindo assim custos de implantação, operação e manutenção. A solução será aplicada considerando os preceitos da Indústria 4.0. Este projeto será realizado em conjunto com a UFPB e UFPR, e poderá ser verticalizado em uma oportunidade de pesquisa de mestrado.
+
+1. Caracterização do ambiente a ser estudado;
+2. Estudo das ferramentas e conceitos a serem aplicados;
+3. Desenvolvimento da solução em simulador;
+4. Planejamento e execução de experimentos simulados;
+5. Análise de resultados e escrita de relatórios técnicos.
+
+Objetos de estudo: simulador NS3, IoT, C++.
+
+**Oportunidade 02: ETS Virtual**
 
 Seleção de um aluno do Curso Superior de Tecnologia em Redes de Computadores para submissão de proposta de pesquisa ao **Edital PIBIC/CNPq 16/2020**.
 
@@ -28,7 +42,7 @@ Pesquisa realizada em conjunto com a Escola Técnica de Saúde (ETS) da UFPB, cu
 
 Objetos de estudo: ambientes de virtualização (Xen, KVM, docker) e shell scripting.
 
-**Oportunidade 02: Sala de Aula Virtualizada**
+**Oportunidade 03: Sala de Aula Virtualizada**
 
 Seleção de um aluno do Curso Superior de Tecnologia em Redes de Computadores para submissão de proposta de projeto ao **Edital PIBIT/CNPq 17/2020**.
 
@@ -41,17 +55,3 @@ Projeto que busca o desenvolvimento de uma plataforma de gerência dos laborató
 5. Análise dos resultados e escrita de relatórios técnicos.
 
 Objetos de estudo: ambientes de orquestração de serviços (OpenStack, Kubernetes, OpenShift), shell scripting, python.
-
-**Oportunidade 03: POLIIoT**
-
-Seleção de dois (02) alunos do CST em Redes de Computadores ou Bacharelado em Engenharia Elétrica, para submissão de proposta de projeto aos Editais PIBIC/CNPq 16/2020 e PIBIT/CNPq 17/2020.
-
-O objetivo geral deste projeto é propor uma solução para gerência inteligente de uma rede de dispositivos IoT baseada em políticas. Esta gerência permitirá uma seleção eficiente para atender aplicações variadas no contexto de IIoT (*Industrial Internet of Things*), levando em consideração as diferentes características físicas dos dispositivos que compõem a rede. Desta forma, pretende-se desenvolver soluções que permitam que vários serviços utilizem uma mesma infraestrutura de sensoriamento via dispositivos IoT, diminuindo assim custos de implantação, operação e manutenção. A solução será aplicada considerando os preceitos da Indústria 4.0. Este projeto será realizado em conjunto com a UFPB e UFPR, e poderá ser verticalizado em uma oportunidade de pesquisa de mestrado.
-
-1. Caracterização do ambiente a ser estudado;
-2. Estudo das ferramentas e conceitos a serem aplicados;
-3. Desenvolvimento da solução em simulador;
-4. Planejamento e execução de experimentos simulados;
-5. Análise de resultados e escrita de relatórios técnicos.
-
-Objetos de estudo: simulador NS3, IoT, C++.
