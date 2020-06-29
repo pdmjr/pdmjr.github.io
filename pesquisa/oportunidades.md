@@ -14,7 +14,7 @@ Prazo máximo para manifestar interesse em uma das vagas descritas abaixo: **05/
 
 Entrar em contato por email: **paulo.maciel[at]ifpb.edu.br**.
 
-**Oportunidade 01: POLIIoT**
+**Oportunidade 01: Industrial IoT**
 
 Seleção de dois (02) alunos do CST em Redes de Computadores ou Bacharelado em Engenharia Elétrica, para submissão de proposta de projeto aos Editais PIBIC/CNPq 16/2020 e PIBIT/CNPq 17/2020.
 
