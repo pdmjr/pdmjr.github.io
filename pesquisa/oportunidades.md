@@ -42,4 +42,16 @@ Projeto que busca o desenvolvimento de uma plataforma de gerência dos laborató
 
 Objetos de estudo: ambientes de orquestração de serviços (OpenStack, Kubernetes, OpenShift), shell scripting, python.
 
-OBS: esta página poderá ser atualizada nos próximos dias com novas oportunidades.
+**Oportunidade 03: POLIIoT**
+
+Seleção de dois (02) alunos do CST em Redes de Computadores ou Bacharelado em Engenharia Elétrica, para submissão de proposta de projeto aos Editais PIBIC/CNPq 16/2020 e PIBIT/CNPq 17/2020.
+
+O objetivo geral deste projeto é propor uma solução para gerência inteligente de uma rede de dispositivos IoT baseada políticas. Esta gerência permitirá uma seleção eficiente para atender aplicações variadas no contexto de IIoT (*Industrial Internet of Things*), levando em consideração as diferentes características físicas dos dispositivos que compõem a rede. Desta forma, pretende-se desenvolver soluções que permitam que vários serviços utilizem uma mesma infraestrutura de sensoriamento via dispositivos IoT, diminuindo assim custos de implantação, operação e manutenção. A solução será aplicada considerando os preceitos da Indústria 4.0. Este projeto será realizado em conjunto com a UFPB e UFPR, e poderá ser verticalizado em uma oportunidade de pesquisa de mestrado.
+
+1. Caracterização do ambiente a ser estudado;
+2. Estudo das ferramentas e conceitos a serem aplicados;
+3. Desenvolvimento da solução em simulador;
+4. Planejamento e execução de experimentos simulados;
+5. Análise de resultados e escrita de relatórios técnicos.
+
+Objetos de estudo: simulador NS3, IoT, C++.
