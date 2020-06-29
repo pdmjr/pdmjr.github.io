@@ -26,7 +26,7 @@ O objetivo geral deste projeto é propor uma solução para gerência inteligent
 4. Planejamento e execução de experimentos simulados;
 5. Análise de resultados e escrita de relatórios técnicos.
 
-Objetos de estudo: simulador NS3, IoT, C++.
+Objetos de estudo: simulador NS3, IoT, C++, shell scripting, python.
 
 **Oportunidade 02: ETS Virtual**
 
