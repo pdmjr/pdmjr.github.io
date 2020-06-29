@@ -10,7 +10,7 @@ Para esta seleção, é necessário que o aluno verifique se está apto a partic
 
 A seleção será realizada por meio de análise de currículo, histórico escolar e/ou entrevista.
 
-Prazo máximo para manifestar interesse em uma das vagas descritas abaixo: **30/06/2020**.
+Prazo máximo para manifestar interesse em uma das vagas descritas abaixo: **05/07/2020**.
 
 Entrar em contato por email: **paulo.maciel[at]ifpb.edu.br**.
 
