@@ -18,7 +18,7 @@ Entrar em contato por email: **paulo.maciel[at]ifpb.edu.br**.
 
 Seleção de dois (02) alunos do CST em Redes de Computadores ou Bacharelado em Engenharia Elétrica, para submissão de proposta de projeto aos Editais PIBIC/CNPq 16/2020 e PIBIT/CNPq 17/2020.
 
-O objetivo geral deste projeto é propor uma solução para gerência inteligente de uma rede de dispositivos IoT baseada em políticas. Esta gerência permitirá uma seleção eficiente para atender aplicações variadas no contexto de IIoT (*Industrial Internet of Things*), levando em consideração as diferentes características físicas dos dispositivos que compõem a rede e os preceitos da Indústria 4.0. Desta forma, pretende-se desenvolver soluções que permitam que vários serviços utilizem uma mesma infraestrutura de sensoriamento via dispositivos IoT, diminuindo assim custos de implantação, operação e manutenção. Este projeto será realizado em conjunto com a UFPB e UFPR, e poderá ser verticalizado em uma oportunidade de pesquisa de mestrado.
+O objetivo geral deste projeto é propor uma solução para gerência inteligente de uma rede de dispositivos IoT baseada em políticas. Esta gerência permitirá uma seleção eficiente para atender aplicações variadas no contexto de IIoT (*Industrial Internet of Things*), levando em consideração as diferentes características físicas dos dispositivos que compõem a rede e os preceitos da Indústria 4.0. Desta forma, pretende-se desenvolver soluções que permitam que vários serviços utilizem uma mesma infraestrutura de sensoriamento via dispositivos IoT, diminuindo assim custos de implantação, operação e manutenção. Este projeto será realizado em conjunto com a UFPB e UFPR, e poderá ser verticalizado em uma oportunidade de pesquisa de mestrado. Os objetivos específicos desta pesquisa consistem em:
 
 1. Caracterização do ambiente a ser estudado;
 2. Estudo das ferramentas e conceitos a serem aplicados;
@@ -32,7 +32,7 @@ Objetos de estudo: simulador NS3, IoT, C++.
 
 Seleção de um aluno do Curso Superior de Tecnologia em Redes de Computadores para submissão de proposta de pesquisa ao **Edital PIBIC/CNPq 16/2020**.
 
-Pesquisa realizada em conjunto com a Escola Técnica de Saúde (ETS) da UFPB, cujo objetivo é avaliar o desempenho dos serviços de redes oferecidos aos seus usuários, buscando caracterizá-lo por métricas/parâmetros de qualidade de serviço (QoS). Tais serviços são oferecidos através de máquinas virtuais (plataforma XenServer) e podem ser elencados como: serviços de roteamento, firewall, web, DNS, email, DHCP e servidor de arquivos. Os objetivos específicos desta pesquia consistem em:
+Pesquisa realizada em conjunto com a Escola Técnica de Saúde (ETS) da UFPB, cujo objetivo é avaliar o desempenho dos serviços de redes oferecidos aos seus usuários, buscando caracterizá-lo por métricas/parâmetros de qualidade de serviço (QoS). Tais serviços são oferecidos através de máquinas virtuais (plataforma XenServer) e podem ser elencados como: serviços de roteamento, firewall, web, DNS, email, DHCP e servidor de arquivos. Os objetivos específicos desta pesquisa consistem em:
 
 1. Caracterização dos serviços da ETS e da infraestrutura de redes;
 2. Planejamento dos experimentos a serem realizados;
