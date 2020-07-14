@@ -44,10 +44,10 @@ title: Pesquisa
 <br/>
 **Material para orientandos e orientadores**
 
-* *[English Communication for Scientists (Nature.com, 2014)](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/)*
+* *[English Communication for Scientists (nature.com, 2014)](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/)*
 
-* *[Four lessons for being a great mentor to undergrads (ScienceMag.org, 2017)](https://www.sciencemag.org/careers/2017/11/four-lessons-being-great-mentor-undergrads?fbclid=IwAR3sNN8d2tY6QaiwqrpRs9VPJonfeLzLS43MQeXemZ0esIyYnBPtvWOTOGk)*
+* *[Four lessons for being a great mentor to undergrads (sciencemag.org, 2017)](https://www.sciencemag.org/careers/2017/11/four-lessons-being-great-mentor-undergrads?fbclid=IwAR3sNN8d2tY6QaiwqrpRs9VPJonfeLzLS43MQeXemZ0esIyYnBPtvWOTOGk)*
+
+* *[How to Get Things Done When You Don't Feel Like It (queue.acm.org, 2018)](https://queue.acm.org/detail.cfm?id=3280677)*
 
 * *[What is a PhD Thesis? (StenioFernandes.com)](https://www.steniofernandes.com/miscellaneous/whatisaphdthesis)*
-
-* *[How to Get Things Done When You Don't Feel Like It (queue.acm.org)](https://queue.acm.org/detail.cfm?id=3280677)*
