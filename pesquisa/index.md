@@ -3,12 +3,14 @@ layout: page
 title: Pesquisa
 ---
 
+<!---
 <br/>
 **Oportunidades**
 
 * Proposta de projetos de pesquisa ou desenvolvimento tecnológico <br/>
   Prazo para manifestação de interesse: 05/07/2020 <br/>
   [Site](https://pdmjr.github.io/pesquisa/oportunidades)
+-->
 
 **Trabalhos sobre Revisão(Mapeamento) Sistemática(o) da Literatura**
 
@@ -47,3 +49,5 @@ title: Pesquisa
 * *[Four lessons for being a great mentor to undergrads (ScienceMag.org, 2017)](https://www.sciencemag.org/careers/2017/11/four-lessons-being-great-mentor-undergrads?fbclid=IwAR3sNN8d2tY6QaiwqrpRs9VPJonfeLzLS43MQeXemZ0esIyYnBPtvWOTOGk)*
 
 * *[What is a PhD Thesis? (StenioFernandes.com)](https://www.steniofernandes.com/miscellaneous/whatisaphdthesis)*
+
+* *[How to Get Things Done When You Don't Feel Like It (queue.acm.org)](https://queue.acm.org/detail.cfm?id=3280677)*
