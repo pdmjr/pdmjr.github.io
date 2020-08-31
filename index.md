@@ -35,7 +35,7 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
   (Demo paper) IEEE/IFIP Network Operations and Management Symposium<br/>
   [Site](http://dx.doi.org/10.1109/NOMS47738.2020.9110447)
 
-* *Proposta de uma arquitetura extensiva ao protocolo BGP com balanceamento de carga através de múltiplos caminhos (2020)*<br/>
+* *Proposta de uma Arquitetura Extensiva ao Protocolo BGP com Balanceamento de Carga Através de Múltiplos Caminhos (2020)*<br/>
   Lucas Carvalho Sivla, Kadu Silva, Leandro Batista, Paulo Ditarso Maciel Jr., Leandro C. de Almeida, Thiago Gouveia da Silva<br/>
   (Aceito para apresentação no) Workshop de Pesquisa Experimental da Internet do Futuro<br/>
   [Site](http://sbrc2020.sbc.org.br/?page_id=1256)
