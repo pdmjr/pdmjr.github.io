@@ -8,4 +8,6 @@ title: Ensino
 
 **Material sobre [*Docker*](https://github.com/pdmjr/material-docker)**
 
+**Material sobre [*NS-3*](https://github.com/pdmjr/material-ns3)**
+
 **Material sobre Orquestradores** (em construção)
