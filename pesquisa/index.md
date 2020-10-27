@@ -32,7 +32,7 @@ title: Pesquisa
 * Ferramenta para gerenciamento de referências: [Mendeley](http://www.mendely.com)
 
 <br/>
-**Trabalhos sobre *Experimental Disign***
+**Trabalhos sobre *Experimental Design***
 
 * (em construção)
 
