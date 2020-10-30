@@ -50,6 +50,6 @@ title: Pesquisa
 
 * *[How to Get Things Done When You Don't Feel Like It (queue.acm.org, 2018)](https://queue.acm.org/detail.cfm?id=3280677)*
 
-* *[What is a PhD Thesis? (StenioFernandes.com)](https://www.steniofernandes.com/miscellaneous/whatisaphdthesis)*
+* *[What is a PhD Thesis? (Stenio Fernandes)](https://www.steniofernandes.com/miscellaneous/whatisaphdthesis)*
 
 * *[Systems Benchmarking Crimes (Gernot Heiser)](https://www.cse.unsw.edu.au/~gernot/benchmarking-crimes.html)*
