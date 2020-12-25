@@ -46,8 +46,8 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
 
 * *Proposta de uma Arquitetura Extensiva ao Protocolo BGP com Balanceamento de Carga Através de Múltiplos Caminhos (2020)*<br/>
   Lucas Carvalho Sivla, Kadu Silva, Leandro Batista, Paulo Ditarso Maciel Jr., Leandro C. de Almeida, Thiago Gouveia da Silva<br/>
-  (Aceito para apresentação no) Workshop de Pesquisa Experimental da Internet do Futuro<br/>
-  [Site](http://sbrc2020.sbc.org.br/?page_id=1256)
+  Workshop de Pesquisa Experimental da Internet do Futuro<br/>
+  [Site](https://sol.sbc.org.br/index.php/wpeif/article/view/12473)
 
 * *A Marketplace-based Approach to Cloud Network Slice Composition Across Multiple Domains (2019)*<br/>
   Paulo Ditarso Maciel Jr., Fábio L. Verdi, Polychronis Valsamas, Ilias Sakellariou, Lefteris Mamatas, Sophia Petridou, Panagiotis Papadimitriou, David Moura, Asma Islam, Billy Pinheiro, Stuart Clayman<br/>
