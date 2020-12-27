@@ -29,6 +29,11 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
 
 ## Publicações (últimos 3 anos)
 
+* *Analyzing Cooperative Monitoring and Dissemination of Critical Mobile Events by VANETs (2020)* <br/>
+  Everaldo Andrade, Aldri Santos, Paulo Ditarso Maciel Jr., Fernando Matos <br/>
+  arXiv:2009.03963 [cs.NI]<br/>
+  [Site](https://arxiv.org/abs/2009.03963)
+
 * *Cloud Network Slicing: A Systematic Mapping Study from Scientific Publications (2020)* <br/>
   Leandro C. de Almeida, Paulo Ditarso Maciel Jr., Fábio L. Verdi <br/>
   arXiv:2004.13675 [cs.NI]<br/>
