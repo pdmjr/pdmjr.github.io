@@ -53,3 +53,5 @@ title: Pesquisa
 * *[What is a PhD Thesis? (Stenio Fernandes)](https://www.steniofernandes.com/miscellaneous/whatisaphdthesis)*
 
 * *[Systems Benchmarking Crimes (Gernot Heiser)](https://www.cse.unsw.edu.au/~gernot/benchmarking-crimes.html)*
+
+* *[The end of Computing Science? (Edsger W. Dijkstra)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD13xx/EWD1304.html)*
