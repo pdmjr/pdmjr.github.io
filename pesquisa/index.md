@@ -44,14 +44,16 @@ title: Pesquisa
 <br/>
 **Material para orientandos e orientadores**
 
+* *[What is a PhD Thesis? (Stenio Fernandes)](https://www.steniofernandes.com/miscellaneous/whatisaphdthesis)*
+
+* *[Systems Benchmarking Crimes (Gernot Heiser)](https://www.cse.unsw.edu.au/~gernot/benchmarking-crimes.html)*
+
+* *[The end of Computing Science? (Edsger W. Dijkstra)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD13xx/EWD1304.html)*
+
 * *[English Communication for Scientists (nature.com, 2014)](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/)*
 
 * *[Four lessons for being a great mentor to undergrads (sciencemag.org, 2017)](https://www.sciencemag.org/careers/2017/11/four-lessons-being-great-mentor-undergrads?fbclid=IwAR3sNN8d2tY6QaiwqrpRs9VPJonfeLzLS43MQeXemZ0esIyYnBPtvWOTOGk)*
 
 * *[How to Get Things Done When You Don't Feel Like It (queue.acm.org, 2018)](https://queue.acm.org/detail.cfm?id=3280677)*
 
-* *[What is a PhD Thesis? (Stenio Fernandes)](https://www.steniofernandes.com/miscellaneous/whatisaphdthesis)*
-
-* *[Systems Benchmarking Crimes (Gernot Heiser)](https://www.cse.unsw.edu.au/~gernot/benchmarking-crimes.html)*
-
-* *[The end of Computing Science? (Edsger W. Dijkstra)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD13xx/EWD1304.html)*
+* *[Guia Rápido para Avaliar Artigos: não jogue no time adversário (horizontes.sbc.org.br, 2020)](http://horizontes.sbc.org.br/index.php/2021/01/guia-rapido-para-avaliar-artigos-nao-jogue-no-time-adversario/)*
