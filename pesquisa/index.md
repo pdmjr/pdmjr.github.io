@@ -43,6 +43,8 @@ title: Pesquisa
 
 * [Teste t de *Student* no R](http://rstudio-pubs-static.s3.amazonaws.com/408638_6679293d4c7a415eaebe00faa3aea0cb.html)
 
+* [Visualização de dados com ggplot2 do Prof. Walmes Zeviani (UFPR)](http://leg.ufpr.br/~walmes/cursoR/data-vis/slides/08-ggplot2.pdf)
+
 <br/>
 **Material sobre *Latex***
 
