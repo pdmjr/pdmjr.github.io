@@ -32,26 +32,26 @@ title: Pesquisa
 * Ferramenta para gerenciamento de referências: [Mendeley](http://www.mendely.com)
 
 <br/>
-** Trabalhos sobre *Experimental Design* **
+**Trabalhos sobre *Experimental Design***
 
 * (em construção)
 
 <br/>
 **Material na Linguagem R**
 
-* [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
+* [*R for Beginners*](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
 
 * [Teste t de *Student* no R](http://rstudio-pubs-static.s3.amazonaws.com/408638_6679293d4c7a415eaebe00faa3aea0cb.html)
 
 <br/>
-** Material sobre *Latex* **
+**Material sobre *Latex***
 
-* [Tutorials Overleaf](https://pt.overleaf.com/learn/latex/Tutorials)
+* [*Tutorials Overleaf*](https://pt.overleaf.com/learn/latex/Tutorials)
 
-* [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+* [*Learn LaTeX in 30 minutes*](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 <br/>
-** Material para orientandos e orientadores **
+**Material para orientandos e orientadores**
 
 * *[What is a PhD Thesis? (Stenio Fernandes)](https://www.steniofernandes.com/miscellaneous/whatisaphdthesis)*
 
