@@ -32,14 +32,15 @@ title: Pesquisa
 * Ferramenta para gerenciamento de referências: [Mendeley](http://www.mendely.com)
 
 <br/>
-**Material na Linguagem R**
-
-* [Teste t de *Student* no R](http://rstudio-pubs-static.s3.amazonaws.com/408638_6679293d4c7a415eaebe00faa3aea0cb.html)
-
-<br/>
 **Trabalhos sobre *Experimental Design***
 
 * (em construção)
+
+<br/>
+
+**Material na Linguagem R**
+
+* [Teste t de *Student* no R](http://rstudio-pubs-static.s3.amazonaws.com/408638_6679293d4c7a415eaebe00faa3aea0cb.html)
 
 <br/>
 **Material sobre *Latex***
