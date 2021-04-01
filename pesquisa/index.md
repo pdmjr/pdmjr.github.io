@@ -39,14 +39,22 @@ title: Pesquisa
 <br/>
 **Material na Linguagem R**
 
+* [Curso de R online para iniciantes (Didática Tech)](https://didatica.tech/curso-de-r-online-para-iniciantes/)
+
 * [*R for Beginners*](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
 
 * [Teste t de *Student* no R](http://rstudio-pubs-static.s3.amazonaws.com/408638_6679293d4c7a415eaebe00faa3aea0cb.html)
 
 * [Visualização de dados com ggplot2 do Prof. Walmes Zeviani (UFPR)](http://leg.ufpr.br/~walmes/cursoR/data-vis/slides/08-ggplot2.pdf)
 
+* [*Statistical Intervals and Visualizations: Difference Between Means (by Joy Payton)*](https://education.arcus.chop.edu/cumming-1-ggplot/)
+
+* [*The New Statistics: Visualizations (by Joy Payton)*](https://rpubs.com/pm0kjp/new-statistics)
+
 <br/>
 **Material sobre *Latex***
+
+* [LearnLATEX.org](https://www.learnlatex.org/pt/)
 
 * [*Tutorials Overleaf*](https://pt.overleaf.com/learn/latex/Tutorials)
 
