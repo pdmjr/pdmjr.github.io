@@ -67,6 +67,8 @@ title: Pesquisa
 
 * *[Systems Benchmarking Crimes (Gernot Heiser)](https://www.cse.unsw.edu.au/~gernot/benchmarking-crimes.html)*
 
+* *[The Science in Computer Science (Peter J. Denning)](https://cacm.acm.org/magazines/2013/5/163761-the-science-in-computer-science/fulltext)*
+
 * *[The end of Computing Science? (Edsger W. Dijkstra)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD13xx/EWD1304.html)*
 
 * *[English Communication for Scientists (nature.com, 2014)](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/)*
