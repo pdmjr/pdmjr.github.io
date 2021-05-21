@@ -29,12 +29,12 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
 
 ## Publicações (últimos 3 anos)
 
-* *Analyzing Cooperative Monitoring and Dissemination of Critical Mobile Events by VANETs (2020)* <br/>
+* *Analyzing Cooperative Monitoring and Dissemination of Critical Mobile Events by VANETs (2021)* <br/>
   Everaldo Andrade, Aldri Santos, Paulo Ditarso Maciel Jr., Fernando Matos <br/>
   Wireless Networks (Online) v. 2021, p. 1-17<br/>
   [Site](http://dx.doi.org/10.1007/s11276-021-02551-z)
 
-* *Quality Assessment of VANETs-Supported Video Dissemination of Critical Urban Events* <br/>
+* *Quality Assessment of VANETs-Supported Video Dissemination of Critical Urban Events (2021)* <br/>
   Everaldo Andrade, Fernando Matos, Paulo Ditarso Maciel Jr., Aldri Santos, Michele Nogueira <br/>
   Global Internet Symposium, in conjunction with the IEEE International Conference on Computer Communications, 2021 <br/>
   [Site](em breve)
