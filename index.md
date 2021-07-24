@@ -37,7 +37,7 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
 * *Quality Assessment of VANETs-Supported Video Dissemination of Critical Urban Events (2021)*<br/>
   Everaldo Andrade, Fernando Matos, Paulo Ditarso Maciel Jr., Aldri Santos, Michele Nogueira<br/>
   IEEE Global Internet Symposium, in conjunction with the IEEE INFOCOM<br/>
-  [Site](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484551)
+  [Site](https://ieeexplore.ieee.org/document/9484551)
 
 * *Cloud Network Slicing: A Systematic Mapping Study from Scientific Publications (2020)*<br/>
   Leandro C. de Almeida, Paulo Ditarso Maciel Jr., Fábio L. Verdi<br/>
