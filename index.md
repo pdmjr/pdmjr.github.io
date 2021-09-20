@@ -32,7 +32,7 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
 * *PipeConf: Uma Arquitetura Integrada para Configuração Automatizada de Ativos de Rede Heterogêneos (2021)*<br/>
   Aécio Pires, Paulo Ditarso Maciel Jr., Diego Pessoa, Fernando Matos, Aldri dos Santos<br/>
   XXVI Workshop de Gerência e Operação de Redes e Serviços<br/>
-  [Site](https://www.sbrc2021.facom.ufu.br/pt-br/programacao/workshops/xxvi-workshop-de-gerencia-e-operacao-de-redes-e-servicos-wgrs)
+  [SOL](https://sol.sbc.org.br/index.php/wgrs/article/view/17189)
 
 * *Analyzing Cooperative Monitoring and Dissemination of Critical Mobile Events by VANETs (2021)*<br/>
   Everaldo Andrade, Aldri Santos, Paulo Ditarso Maciel Jr., Fernando Matos<br/>
