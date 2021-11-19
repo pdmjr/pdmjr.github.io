@@ -63,6 +63,8 @@ title: Pesquisa
 <br/>
 **Material para orientandos e orientadores**
 
+* *[You and Your Research (Richard Hamming)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)*
+
 * *[What is a PhD Thesis? (Stenio Fernandes)](https://www.steniofernandes.com/miscellaneous/whatisaphdthesis)*
 
 * *[Systems Benchmarking Crimes (Gernot Heiser)](https://www.cse.unsw.edu.au/~gernot/benchmarking-crimes.html)*
