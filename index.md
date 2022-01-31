@@ -86,5 +86,5 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
 
 *  *Uma Proposta de Arquitetura para o Monitoramento Multidomínio de Cloud Network Slices*<br/>
   André Beltrami Rocha, Matheus Nadaleti, Vinicius Furukawa, Paulo Ditarso Maciel Jr., Fábio Luciano Verdi<br/>
-  I Workshop de Teoria, Tecnologias e Aplicações de Slicing para Infraestruturas Softwarizadas (2019)<br/>
+  Workshop de Teoria, Tecnologias e Aplicações de Slicing para Infraestruturas Softwarizadas (2019)<br/>
   [DOI](http://dx.doi.org/10.5753/wslice.2019.7721)
