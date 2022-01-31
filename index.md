@@ -31,7 +31,7 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
 
 * *CNS‑AOM: Design, Implementation and Integration of an Architecture for Orchestration and Management of Cloud‑Network Slices*<br/>
   André Luiz Beltrami Rocha, Celso Henrique Cesila, Paulo Ditarso Maciel Jr., Sand Luiz Correa, Javier Rubio-Loyola, Christian Esteve Rothenberg, Fábio Luciano Verdi<br/>
-  Journal of network and Systems Management 30, Article number: 34 (2022)<br/>
+  Journal of Network and Systems Management 30, Article number: 34 (2022)<br/>
   [DOI](https://doi.org/10.1007/s10922-022-09641-z)
 
 * *PipeConf: Uma Arquitetura Integrada para Configuração Automatizada de Ativos de Rede Heterogêneos*<br/>
