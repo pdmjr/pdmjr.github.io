@@ -29,6 +29,11 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
 
 ## Publicações (últimos 5 anos)
 
+* *Um Esquema para Alocação Justa de Dispositivos IoT Multifuncionais Ciente dos Recursos Computacionais*<br/>
+  Diego Rocha, Ayrton Porto, Leandro Batista, Fernando Matos, Aldri dos Santos, Paulo Ditarso Maciel Jr.<br/>
+  XXVII Workshop de Gerência e Operação de Redes e Serviços (2022)<br/>
+  [site](http://sbrc2022.sbc.org.br/xxvii-workshop-de-gerencia-e-operacao-de-redes-e-servicos-wgrs/)
+
 * *CNS‑AOM: Design, Implementation and Integration of an Architecture for Orchestration and Management of Cloud‑Network Slices*<br/>
   André Luiz Beltrami Rocha, Celso Henrique Cesila, Paulo Ditarso Maciel Jr., Sand Luiz Correa, Javier Rubio-Loyola, Christian Esteve Rothenberg, Fábio Luciano Verdi<br/>
   Journal of Network and Systems Management 30, Article number: 34 (2022)<br/>
