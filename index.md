@@ -14,6 +14,10 @@ function googleTranslateElementInit() {
 
 <br/>
 ## **P**aulo **D**itarso **M**aciel **Jr.**
+<a href="https://orcid.org/0000-0002-0732-752X">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+https://orcid.org/0000-0002-0732-752X
+</a>
 ([Currículo Lattes](http://lattes.cnpq.br/1101383196957378))
 
 Possui Bacharelado em Ciências da Computação pela Universidade Federal da Paraíba (2002), Mestrado em Engenharia de Sistemas e Computação pela Universidade Federal do Rio de Janeiro (2005) e Doutorado em Ciência da Computação pela Universidade Federal de Campina Grande (2013). Realizou um estágio de Pós-Doutorado no Departamento de Computação da Universidade Federal de São Carlos, Campus Sorocaba, entre 2018 e 2019. Atualmente é professor efetivo do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba, onde atua nos Cursos Superiores de Tecnologia da Unidade Acadêmica de Informática e no curso de Mestrado Profissional do Programa de Pós-Graduação em Tecnologia da Informação. Tem experiência nas áreas de Redes de Computadores e Sistemas Distribuídos.
