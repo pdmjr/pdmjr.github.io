@@ -18,6 +18,7 @@ function googleTranslateElementInit() {
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
 https://orcid.org/0000-0002-0732-752X
 </a>
+
 ([Currículo Lattes](http://lattes.cnpq.br/1101383196957378))
 
 Possui Bacharelado em Ciências da Computação pela Universidade Federal da Paraíba (2002), Mestrado em Engenharia de Sistemas e Computação pela Universidade Federal do Rio de Janeiro (2005) e Doutorado em Ciência da Computação pela Universidade Federal de Campina Grande (2013). Realizou um estágio de Pós-Doutorado no Departamento de Computação da Universidade Federal de São Carlos, Campus Sorocaba, entre 2018 e 2019. Atualmente é professor efetivo do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba, onde atua nos Cursos Superiores de Tecnologia da Unidade Acadêmica de Informática e no curso de Mestrado Profissional do Programa de Pós-Graduação em Tecnologia da Informação. Tem experiência nas áreas de Redes de Computadores e Sistemas Distribuídos.
@@ -32,6 +33,11 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
     * paulo.maciel[at]ifpb.edu.br
 
 ## Publicações (últimos 5 anos)
+
+* *PipeConf: An Integrated Architecture for the Automated Configuration of Network Assets*<br/>
+  Aécio Pires, Fernando Matos, Aldri dos Santos, Diego Pessoa, Paulo Ditarso Maciel Jr.<br/>
+  To appear in the IEEE Transactions on Network and Service Management<br/>
+  [DOI](https://doi.org/10.1109/TNSM.2022.3195382)
 
 * *Um Esquema para Alocação Justa de Dispositivos IoT Multifuncionais Ciente dos Recursos Computacionais*<br/>
   Diego Rocha, Ayrton Porto, Leandro Batista, Fernando Matos, Aldri dos Santos, Paulo Ditarso Maciel Jr.<br/>
