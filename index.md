@@ -18,11 +18,11 @@ function googleTranslateElementInit() {
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
 ORCID: 0000-0002-0732-752X
 </a>
+
 <a href="http://lattes.cnpq.br/1101383196957378">
 <img alt="Lattes logo" src="http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png" width="16" height="16" />
 Lattes ID: 1101383196957378
 </a>
-([Currículo Lattes](http://lattes.cnpq.br/1101383196957378))
 
 Possui Bacharelado em Ciências da Computação pela Universidade Federal da Paraíba (2002), Mestrado em Engenharia de Sistemas e Computação pela Universidade Federal do Rio de Janeiro (2005) e Doutorado em Ciência da Computação pela Universidade Federal de Campina Grande (2013). Realizou um estágio de Pós-Doutorado no Departamento de Computação da Universidade Federal de São Carlos, Campus Sorocaba, entre 2018 e 2019. Atualmente é professor efetivo do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba, onde atua nos Cursos Superiores de Tecnologia da Unidade Acadêmica de Informática e no curso de Mestrado Profissional do Programa de Pós-Graduação em Tecnologia da Informação. Tem experiência nas áreas de Redes de Computadores e Sistemas Distribuídos.
 
