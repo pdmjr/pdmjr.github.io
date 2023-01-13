@@ -42,9 +42,14 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
 
 ## Publicações (últimos 5 anos)
 
+* *Gerenciamento de dispositivos IoT em ambientes industriais: mapeamento sistemático da literatura*<br/>
+  Leandro Henrique Batista da Silva, Lucas Carvalho Gonçalves Silva, Jefferson Lucas Ferreira da Silva, Ricardo Pereira Lins, Paulo Ditarso Maciel Jr.<br/>
+  Aceito para publicação na Revista Principia<br/>
+  [DOI](http://dx.doi.org/10.18265/1517-0306a2022id7130)
+
 * *PipeConf: An Integrated Architecture for the Automated Configuration of Network Assets*<br/>
   Aécio Pires, Fernando Matos, Aldri dos Santos, Diego Pessoa, Paulo Ditarso Maciel Jr.<br/>
-  To appear in the IEEE Transactions on Network and Service Management<br/>
+  IEEE Transactions on Network and Service Management, v. 19, issue 3 (2022)<br/>
   [DOI](https://doi.org/10.1109/TNSM.2022.3195382)
 
 * *Um Esquema para Alocação Justa de Dispositivos IoT Multifuncionais Ciente dos Recursos Computacionais*<br/>
