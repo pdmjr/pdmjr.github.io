@@ -80,3 +80,6 @@ title: Pesquisa
 * *[How to Get Things Done When You Don't Feel Like It (queue.acm.org, 2018)](https://queue.acm.org/detail.cfm?id=3280677)*
 
 * *[Cinco Princípios para uma Revisão Responsável (horizontes.sbc.org.br, 2021)](http://horizontes.sbc.org.br/index.php/2021/10/cinco-principios-para-uma-revisao-responsavel/)*
+
+<br/>
+![Write music by Gary Provost](./write-music.jpg "Write music by Gary Provost.")
