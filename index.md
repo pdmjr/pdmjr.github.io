@@ -42,6 +42,11 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
 
 ## Publicações (últimos 5 anos)
 
+* *Gerência e Alocação de Aulas Virtualizadas em Laboratórios de Informática: Uma Arquitetura Híbrida*<br/>
+  Rodrigo de Brito Lira, Thiago Gouveia, Paulo Ditarso Maciel Jr.<br/>
+  L Seminário Integrado de Software e Hardware (2023)<br/>
+  [SOL](https://sol.sbc.org.br/index.php/semish/article/view/25079)
+
 * *Gerenciamento de dispositivos IoT em ambientes industriais: mapeamento sistemático da literatura*<br/>
   Leandro Henrique Batista da Silva, Lucas Carvalho Gonçalves Silva, Jefferson Lucas Ferreira da Silva, Ricardo Pereira Lins, Paulo Ditarso Maciel Jr.<br/>
   Aceito para publicação na Revista Principia<br/>
