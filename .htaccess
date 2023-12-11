@@ -1,0 +1,2 @@
+RewriteCond %{HTTP:Host} ^(?:www\.)?pdmjr\.github\.io$ 
+RewriteRule ^(.*)$ http://pdmjr.in/ [P]
