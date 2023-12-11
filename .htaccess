@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^pdmjr.github.io pdmjr.in [P]
+RewriteRule ^pdmjr.github.io pdmjr.in [L]
