@@ -1,2 +1,3 @@
 RewriteEngine On
-RewriteRule ^pdmjr.github.io pdmjr.in [L]
+RewriteCond %{HTTP_HOST} ^pdmjr.github.io
+RewriteRule ^(.*) http://pdmjr.in/$1 [P]
