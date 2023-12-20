@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Pesquisa
+title: Research
+permalink: /research
+redirect_from:
+    - /research/
 ---
 
 <!---

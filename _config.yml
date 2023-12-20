@@ -35,8 +35,8 @@ header_pages:
   - index.md
   - agenda/index.md
   - class/index.md
-  - pesquisa/index.md
-  - extensao/index.md
+  - research/index.md
+  - extension/index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

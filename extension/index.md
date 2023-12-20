@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Extensão
+title: Extension
+permalink: /extension
+redirect_from:
+    - /extension/
 ---
 
 <br/>

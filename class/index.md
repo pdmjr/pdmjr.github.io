@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Class
 permalink: /class
 redirect_from:
     - /class/
