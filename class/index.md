@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Ensino
+title: Teaching
+permalink: /class
+redirect_from:
+    - /class/
 ---
 
 <br/>
