@@ -13,7 +13,7 @@ function googleTranslateElementInit() {
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <br/>
-## ***P***aulo ***D***itarso ***M***aciel ***Jr.***
+## **P**aulo **D**itarso **M**aciel **Jr.**
 <a href="http://www.researcherid.com/rid/AAM-9198-2020">
 <img alt="ResearcherID logo" src="http://buscatextual.cnpq.br/buscatextual/images/curriculo/researcherID.gif" width="16" height="16" />
 ResearcherID: AAM-9198-2020
@@ -40,7 +40,7 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
     * 58015-430, João Pessoa - PB, Brasil
     * paulo.maciel[at]ifpb.edu.br
 
-## Publications (last 5 year, original language)
+## Publications (original lang)
 
 * *Gerência e Alocação de Aulas Virtualizadas em Laboratórios de Informática: Uma Arquitetura Híbrida*<br/>
   Rodrigo de Brito Lira, Thiago Gouveia, Paulo Ditarso Maciel Jr.<br/>
