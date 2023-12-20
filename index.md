@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Início
+title: Start
 ---
 <div id="google_translate_element"></div>
 
@@ -13,7 +13,7 @@ function googleTranslateElementInit() {
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <br/>
-## **P**aulo **D**itarso **M**aciel **Jr.**
+## ***P***aulo ***D***itarso ***M***aciel ***Jr.***
 <a href="http://www.researcherid.com/rid/AAM-9198-2020">
 <img alt="ResearcherID logo" src="http://buscatextual.cnpq.br/buscatextual/images/curriculo/researcherID.gif" width="16" height="16" />
 ResearcherID: AAM-9198-2020
@@ -29,9 +29,9 @@ ORCID: 0000-0002-0732-752X
 Lattes ID: 1101383196957378
 </a>
 
-Possui Bacharelado em Ciências da Computação pela Universidade Federal da Paraíba (2002), Mestrado em Engenharia de Sistemas e Computação pela Universidade Federal do Rio de Janeiro (2005) e Doutorado em Ciência da Computação pela Universidade Federal de Campina Grande (2013). Realizou um estágio de Pós-Doutorado no Departamento de Computação da Universidade Federal de São Carlos, Campus Sorocaba, entre 2018 e 2019. Atualmente é professor efetivo do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba, onde atua nos Cursos Superiores de Tecnologia da Unidade Acadêmica de Informática e no curso de Mestrado Profissional do Programa de Pós-Graduação em Tecnologia da Informação. Tem experiência nas áreas de Redes de Computadores e Sistemas Distribuídos.
+He has a Bachelor's degree in Computer Science from the Federal University of Paraíba (2002), a Master's degree in Systems and Computer Engineering from the Federal University of Rio de Janeiro (2005), and a PhD in Computer Science from the Federal University of Campina Grande (2013). He completed a Post-Doctoral internship at the Department of Computing of the Federal University of São Carlos, Sorocaba Campus, between 2018 and 2019. He is a Full Professor at the Federal Institute of Education, Science and Technology of Paraíba, where he works on undergraduate and postgraduate courses in the Academic Units of Technological Information and Communication and Electrical Engineering. He has experience in the areas of Computer Networks and Distributed Systems.
 
-## Endereço Profissional 
+## Profissional Address 
 
 * Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) 
     * Campus João Pessoa
@@ -40,7 +40,7 @@ Possui Bacharelado em Ciências da Computação pela Universidade Federal da Par
     * 58015-430, João Pessoa - PB, Brasil
     * paulo.maciel[at]ifpb.edu.br
 
-## Publicações (últimos 5 anos)
+## Publications (last 5 year, original language)
 
 * *Gerência e Alocação de Aulas Virtualizadas em Laboratórios de Informática: Uma Arquitetura Híbrida*<br/>
   Rodrigo de Brito Lira, Thiago Gouveia, Paulo Ditarso Maciel Jr.<br/>
