@@ -34,7 +34,7 @@ plugins:
 header_pages:
   - index.md
   - agenda/index.md
-  - ensino/index.md
+  - class/index.md
   - pesquisa/index.md
   - extensao/index.md
 
