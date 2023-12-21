@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Agenda
+permalink: /agenda
+redirect_from:
+    - /agenda/
 ---
 
 <br/>
