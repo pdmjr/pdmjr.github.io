@@ -47,6 +47,11 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
   L Seminário Integrado de Software e Hardware (2023)<br/>
   [SOL](https://sol.sbc.org.br/index.php/semish/article/view/25079)
 
+* *WAVE - Um gerador de cargas múltiplas para experimentação em redes de computadores*<br/>
+  Leandro C. de Almeida, Jefferson L. F. da Silva, Ricardo P. Lins, Paulo Ditarso Maciel Jr., Rafael Pasquini, Fábio L. Verdi<br/>
+  Salão de Ferramentas do XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (2023)<br/>
+  [SOL](https://sol.sbc.org.br/index.php/sbrc_estendido/article/view/24627)
+
 * *Gerenciamento de dispositivos IoT em ambientes industriais: mapeamento sistemático da literatura*<br/>
   Leandro Henrique Batista da Silva, Lucas Carvalho Gonçalves Silva, Jefferson Lucas Ferreira da Silva, Ricardo Pereira Lins, Paulo Ditarso Maciel Jr.<br/>
   Aceito para publicação na Revista Principia<br/>
