@@ -2,7 +2,7 @@
 layout: page
 title: Start
 redirect_to:
-    - /start/
+    - /start
 ---
 <div id="google_translate_element"></div>
 
