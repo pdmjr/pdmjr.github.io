@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Start
-redirect_to:
-    - /start
+permalink: /start
 ---
 <div id="google_translate_element"></div>
 
