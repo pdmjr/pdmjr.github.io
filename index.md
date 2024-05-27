@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Research
-permalink: /start
+title: Index
 redirect_to:
     - /start/
 ---
