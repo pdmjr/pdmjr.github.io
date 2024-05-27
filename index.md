@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Start
-permalink: /start
 redirect_to:
     - /start/
 ---
