@@ -45,6 +45,16 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
 
 ## Publications (original lang)
 
+* *SEA: Towards Slicing Elasticity as a Service*<br/>
+  André Luiz Beltrami Rocha, Paulo Ditarso Maciel Jr., Fábio Luciano Verdi<br/>
+  XLII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (2024)<br/>
+  [SOL](https://sol.sbc.org.br/index.php/indice)
+
+* *Evaluating L4S Framework Performance with Programmable Data Plane Hardware*<br/>
+  Leandro C. de Almeida, Paulo Ditarso Maciel Jr., Fábio Luciano Verdi<br/>
+  XXIX Workshop de Gerência e Operação de Redes e Serviços (2024)<br/>
+  [SOL](https://sol.sbc.org.br/index.php/indice)
+
 * *Gerência e Alocação de Aulas Virtualizadas em Laboratórios de Informática: Uma Arquitetura Híbrida*<br/>
   Rodrigo de Brito Lira, Thiago Gouveia, Paulo Ditarso Maciel Jr.<br/>
   L Seminário Integrado de Software e Hardware (2023)<br/>
