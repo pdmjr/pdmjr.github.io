@@ -17,7 +17,7 @@ function googleTranslateElementInit() {
 
 <br/>
 ## **P**aulo **D**itarso **M**aciel **Jr.**
-<a href="http://www.researcherid.com/rid/AAM-9198-2020">
+<a href="https://publons.com/researcher/AAM-9198-2020">
 <img alt="ResearcherID logo" src="http://buscatextual.cnpq.br/buscatextual/images/curriculo/researcherID.gif" width="16" height="16" />
 ResearcherID: AAM-9198-2020
 </a>
