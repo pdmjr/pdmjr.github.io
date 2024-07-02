@@ -45,6 +45,11 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
 
 ## Publications (original lang)
 
+* *POSITRON: Efficient Allocation of Smart City Multifunctional IoT Devices Aware of Computing Resources*<br/>
+  Leandro H. B. da Silva, Jefferson L. F. da Silva, Ricardo Pereira Lins, Fernando Menezes Matos, Aldri Luiz dos Santos, Paulo Ditarso Maciel Jr.<br/>
+  Journal of Internet Services and Applications (2024)<br/>
+  [SOL](https://sol.sbc.org.br/index.php/indice)
+
 * *SEA: Towards Slicing Elasticity as a Service*<br/>
   André Luiz Beltrami Rocha, Paulo Ditarso Maciel Jr., Fábio Luciano Verdi<br/>
   XLII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (2024)<br/>
