@@ -72,7 +72,7 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
 
 * *Gerenciamento de dispositivos IoT em ambientes industriais: mapeamento sistemático da literatura*<br/>
   Leandro Henrique Batista da Silva, Lucas Carvalho Gonçalves Silva, Jefferson Lucas Ferreira da Silva, Ricardo Pereira Lins, Paulo Ditarso Maciel Jr.<br/>
-  Aceito para publicação na Revista Principia<br/>
+  Revista Principia - IFPB (2022)<br/>
   [DOI](http://dx.doi.org/10.18265/1517-0306a2022id7130)
 
 * *PipeConf: An Integrated Architecture for the Automated Configuration of Network Assets*<br/>
