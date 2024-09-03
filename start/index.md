@@ -58,7 +58,7 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
 * *Evaluating L4S Framework Performance with Programmable Data Plane Hardware*<br/>
   Leandro C. de Almeida, Paulo Ditarso Maciel Jr., Fábio Luciano Verdi<br/>
   XXIX Workshop de Gerência e Operação de Redes e Serviços (2024)<br/>
-  [SOL](https://sol.sbc.org.br/index.php/indice)
+  [SOL](https://sol.sbc.org.br/index.php/wgrs/article/view/30097)
 
 * *Gerência e Alocação de Aulas Virtualizadas em Laboratórios de Informática: Uma Arquitetura Híbrida*<br/>
   Rodrigo de Brito Lira, Thiago Gouveia, Paulo Ditarso Maciel Jr.<br/>
