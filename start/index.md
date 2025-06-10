@@ -45,6 +45,11 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
 
 ## Publications (original lang)
 
+* *Um Mecanismo de Controle em Redes Programáveis Baseado em Telemetria para Aplicações Sensíveis à Latência*<br/>
+  Vinícus S. Simão, Rodrigo de B. Lira, Lucas V. Monteiro, Paulo Ditarso Maciel Jr., Ruan D. Gomes, Leandro C. de Almeida<br/>
+  XVI Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF 2025)<br/>
+  [SOL](https://sol.sbc.org.br/index.php/wpeif/article/view/35277)
+
 * *POSITRON: Efficient Allocation of Smart City Multifunctional IoT Devices Aware of Computing Resources*<br/>
   Leandro H. B. da Silva, Jefferson L. F. da Silva, Ricardo Pereira Lins, Fernando Menezes Matos, Aldri Luiz dos Santos, Paulo Ditarso Maciel Jr.<br/>
   Journal of Internet Services and Applications (JISA 2024)<br/>
