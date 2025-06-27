@@ -45,25 +45,30 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
 
 ## Publications (original lang)
 
+* *Framework de Detecção de Ataques DDoS na Camada de Aplicação com Uso de Machine Learning e Big Data*<br/>
+  Digenaldo de Brito Rangel Neto, Paulo Ditarso Maciel Jr.<br/>
+  XXX Workshop de Gerência e Operação de Redes e Serviços (WGRS 2025)<br/>
+  [DOI](https://doi.org/10.5753/wgrs.2025.8757) | [SOL](https://sol.sbc.org.br/index.php/wgrs/article/view/35631)
+
 * *Um Mecanismo de Controle em Redes Programáveis Baseado em Telemetria para Aplicações Sensíveis à Latência*<br/>
   Vinícus S. Simão, Rodrigo de B. Lira, Lucas V. Monteiro, Paulo Ditarso Maciel Jr., Ruan D. Gomes, Leandro C. de Almeida<br/>
   XVI Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF 2025)<br/>
-  [SOL](https://sol.sbc.org.br/index.php/wpeif/article/view/35277)
+  [DOI](https://doi.org/10.5753/wpeif.2025.9494) | [SOL](https://sol.sbc.org.br/index.php/wpeif/article/view/35277)
 
 * *POSITRON: Efficient Allocation of Smart City Multifunctional IoT Devices Aware of Computing Resources*<br/>
   Leandro H. B. da Silva, Jefferson L. F. da Silva, Ricardo Pereira Lins, Fernando Menezes Matos, Aldri Luiz dos Santos, Paulo Ditarso Maciel Jr.<br/>
   Journal of Internet Services and Applications (JISA 2024)<br/>
-  [SOL](https://journals-sol.sbc.org.br/index.php/jisa/article/view/3833)
+  [DOI](https://doi.org/10.5753/jisa.2024.3833) | [SOL](https://journals-sol.sbc.org.br/index.php/jisa/article/view/3833)
 
 * *SEA: Towards Slicing Elasticity as a Service*<br/>
   André Luiz Beltrami Rocha, Paulo Ditarso Maciel Jr., Fábio Luciano Verdi<br/>
   XLII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2024)<br/>
-  [SOL](https://sol.sbc.org.br/index.php/sbrc/article/view/29827)
+  [DOI](https://doi.org/10.5753/sbrc.2024.1457) | [SOL](https://sol.sbc.org.br/index.php/sbrc/article/view/29827)
 
 * *Evaluating L4S Framework Performance with Programmable Data Plane Hardware*<br/>
   Leandro C. de Almeida, Paulo Ditarso Maciel Jr., Fábio Luciano Verdi<br/>
   XXIX Workshop de Gerência e Operação de Redes e Serviços (WGRS 2024)<br/>
-  [SOL](https://sol.sbc.org.br/index.php/wgrs/article/view/30097)
+  [DOI](https://doi.org/10.5753/wgrs.2024.3286) | [SOL](https://sol.sbc.org.br/index.php/wgrs/article/view/30097)
 
 * *L4S in Private 5G Industrial Networks: A Case Study for Real-Time Video Transmission in Programmable Networks*<br/>
   Lucas V. Monteiro, Vinícius S. Simão, Rodrigo de B. Lira, Leandro C. de Almeida, Ruan D. Gomes, Paulo Ditarso Maciel Jr.<br/>
@@ -78,12 +83,12 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
 * *Gerência e Alocação de Aulas Virtualizadas em Laboratórios de Informática: Uma Arquitetura Híbrida*<br/>
   Rodrigo de Brito Lira, Thiago Gouveia, Paulo Ditarso Maciel Jr.<br/>
   L Seminário Integrado de Software e Hardware (SEMISH 2023)<br/>
-  [SOL](https://sol.sbc.org.br/index.php/semish/article/view/25079)
+  [DOI](https://doi.org/10.5753/semish.2023.230695) | [SOL](https://sol.sbc.org.br/index.php/semish/article/view/25079)
 
 * *WAVE - Um gerador de cargas múltiplas para experimentação em redes de computadores*<br/>
   Leandro C. de Almeida, Jefferson L. F. da Silva, Ricardo P. Lins, Paulo Ditarso Maciel Jr., Rafael Pasquini, Fábio L. Verdi<br/>
   Salão de Ferramentas do XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2023)<br/>
-  [SOL](https://sol.sbc.org.br/index.php/sbrc_estendido/article/view/24627)
+  [DOI](https://doi.org/10.5753/sbrc_estendido.2023.712) | [SOL](https://sol.sbc.org.br/index.php/sbrc_estendido/article/view/24627)
 
 * *Gerenciamento de dispositivos IoT em ambientes industriais: mapeamento sistemático da literatura*<br/>
   Leandro Henrique Batista da Silva, Lucas Carvalho Gonçalves Silva, Jefferson Lucas Ferreira da Silva, Ricardo Pereira Lins, Paulo Ditarso Maciel Jr.<br/>
@@ -98,7 +103,7 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
 * *Um Esquema para Alocação Justa de Dispositivos IoT Multifuncionais Ciente dos Recursos Computacionais*<br/>
   Diego Rocha, Ayrton Porto, Leandro Batista, Fernando Matos, Aldri dos Santos, Paulo Ditarso Maciel Jr.<br/>
   XXVII Workshop de Gerência e Operação de Redes e Serviços (WGRS 2022)<br/>
-  [SOL](https://sol.sbc.org.br/index.php/wgrs/article/view/21474)
+  [DOI](https://doi.org/10.5753/wgrs.2022.223423) | [SOL](https://sol.sbc.org.br/index.php/wgrs/article/view/21474)
 
 * *CNS‑AOM: Design, Implementation and Integration of an Architecture for Orchestration and Management of Cloud‑Network Slices*<br/>
   André Luiz Beltrami Rocha, Celso Henrique Cesila, Paulo Ditarso Maciel Jr., Sand Luiz Correa, Javier Rubio-Loyola, Christian Esteve Rothenberg, Fábio Luciano Verdi<br/>
@@ -108,7 +113,7 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
 * *PipeConf: Uma Arquitetura Integrada para Configuração Automatizada de Ativos de Rede Heterogêneos*<br/>
   Aécio Pires, Paulo Ditarso Maciel Jr., Diego Pessoa, Fernando Matos, Aldri dos Santos<br/>
   XXVI Workshop de Gerência e Operação de Redes e Serviços (WGRS 2021)<br/>
-  [SOL](https://sol.sbc.org.br/index.php/wgrs/article/view/17189)
+  [DOI](https://doi.org/10.5753/wgrs.2021.17189) | [SOL](https://sol.sbc.org.br/index.php/wgrs/article/view/17189)
 
 * *Analyzing Cooperative Monitoring and Dissemination of Critical Mobile Events by VANETs*<br/>
   Everaldo Andrade, Aldri Santos, Paulo Ditarso Maciel Jr., Fernando Matos<br/>
@@ -138,7 +143,7 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
 * *Proposta de uma Arquitetura Extensiva ao Protocolo BGP com Balanceamento de Carga Através de Múltiplos Caminhos*<br/>
   Lucas Carvalho Sivla, Kadu Silva, Leandro Batista, Paulo Ditarso Maciel Jr., Leandro C. de Almeida, Thiago Gouveia da Silva<br/>
   Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF 2020)<br/>
-  [SOL](https://sol.sbc.org.br/index.php/wpeif/article/view/12473)
+  [DOI](https://doi.org/10.5753/wpeif.2020.12473) | [SOL](https://sol.sbc.org.br/index.php/wpeif/article/view/12473)
 
 * *A Marketplace-based Approach to Cloud Network Slice Composition Across Multiple Domains*<br/>
   Paulo Ditarso Maciel Jr., Fábio L. Verdi, Polychronis Valsamas, Ilias Sakellariou, Lefteris Mamatas, Sophia Petridou, Panagiotis Papadimitriou, David Moura, Asma Islam, Billy Pinheiro, Stuart Clayman<br/>
@@ -148,14 +153,14 @@ He has a Bachelor's degree in Computer Science from the Federal University of Pa
 * *Projeto NECOS: Rumo ao Fatiamento Leve de Recursos em Infraestruturas de Nuvens Federadas*<br/>
   Fernando Farias, Billy Pinheiro, Antônio Abelém, Paulo Ditarso Maciel Jr., André Rocha, Fábio Verdi, Augusto Neto, Sando Correa, Marcelo Nascimento, Rafael Pasquini, Christian Rothenberg<br/>
   Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF 2019)<br/>
-  [SOL](https://sol.sbc.org.br/index.php/wpeif/article/view/7699)
+  [DOI](https://doi.org/10.5753/wpeif.2019.7699) | [SOL](https://sol.sbc.org.br/index.php/wpeif/article/view/7699)
 
 * *Implementação de um switch em P4 com suporte simultâneo a múltiplas arquiteturas de Internet do Futuro*<br/>
   José A. Gavazza, Michael Santos, Paulo Ditarso Maciel Jr., Fábio L. Verdi, José Suruagy Monteiro<br/>
   Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF 2019)<br/>
-  [SOL](https://sol.sbc.org.br/index.php/wpeif/article/view/7693)
+  [DOI](https://doi.org/10.5753/wpeif.2019.7693) | [SOL](https://sol.sbc.org.br/index.php/wpeif/article/view/7693)
 
 *  *Uma Proposta de Arquitetura para o Monitoramento Multidomínio de Cloud Network Slices*<br/>
   André Beltrami Rocha, Matheus Nadaleti, Vinicius Furukawa, Paulo Ditarso Maciel Jr., Fábio Luciano Verdi<br/>
   Workshop de Teoria, Tecnologias e Aplicações de Slicing para Infraestruturas Softwarizadas (WSLICE 2019)<br/>
-  [DOI](http://dx.doi.org/10.5753/wslice.2019.7721)
+  [DOI](http://dx.doi.org/10.5753/wslice.2019.7721) | [SOL](https://sol.sbc.org.br/index.php/wslice/article/view/7721)
